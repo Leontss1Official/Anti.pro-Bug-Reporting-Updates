@@ -1,0 +1,11 @@
+- Added a new AutoClicker check called X, currently detecting some killauras and autoclickers like Vape-Lites that have a specific pattern
+- Added a new KillAura Check
+- Fixed Heuristics
+- Fixed Reach Data
+- I am giving Spigot.pro for people who want there server killaura - free 100% (1.7.10) and a (1.8.8) version if needed.
+- Testing
+- Automatic Machine Learning (You can use a killaura yourself for 10 mins and get it patched from your server)
+- AutoClicker 0x01 got updated alot
+- Vape Lites Reach is patched
+- Reach 3.1 has been removed, but added it only as a detection in first hit, 3.2 and up is completly detectable, 3.1 might take some time
+- Speed A - B Updates
