@@ -1,0 +1,45 @@
+# 10 - 9: Havent started yet or its super expirimental mode
+# 8 - 6: Its been developed daily and being tested for majore false-flags
+# 5 - 3: It just finished being developed, and now its being tested for problems on some networks.
+# 2 - 1: The check is almost done, and now we are adding some extra features to it
+# 0: The check is finished, it doesnt false-flag and its really hard to impossible to be bypassed
+
+AutoClicker: 4
+Killaura: 5
+Reach: 2
+PME (Sorry Firefly for taking your name ;(): 9
+Speed: 0
+NoFall: 0
+Timer: 7
+Crits: 0
+AimPattern / YawRate: 5
+Machine Learning: 4
+Fly: 0
+Other Movement Hacks: 3
+Vape-Checks: 6 (To a mode which detects vape on sertent settings, I cant completly detect vape)
+Logging: 0
+Special Packet-Hacks: 10
+Crash Exploits: 0
+Phase: 3
+Anti-KnockBack: 3
+Ping-Spoof: 0
+Hit-Boxes: 4
+
+Something to Note: The Anti-Cheat has really stable checks, even the checks that are to 9 or less, are really effective, as we ensure the best detection for everything, but they might not detect as much as you would like them to detect, for example, Hit-Boxes might not detect anything more than Vape.
+
+Common Asked questions:
+Q: I suspect this flag being false, or en-accurate, what do I do? A: Make an issue report here, or PM me on discord! Ill be happy to see what you show me!
+
+Q: I found a false-flag, what am I supposed to do? A: If the false-flag has gone to a point where it might cause a false-ban, disable the check and PM me directly, altho I dont think there are any false-flags that can cause players being falsly banned.
+
+Q: Can I test this anticheat? A: Yes, if you are looking into buying Anti.pro, you can PM me for a test server.
+
+Q: Why should I buy this plugin? A: We dont force anyone to buy this plugin, we just think this is the best anticheat at its given price, and it should be a good replacement if you dont want an AntiCheat that will cost you 400$+, also it offers the latest methods to detect hackers!
+
+Q: Whats BreakPro? A: BreakPro is a team of developers offering some survices to servers, and releasing custom plugins. We currently doing the following: 
+- Developing Plugins
+- Doing custom plugins (Private Projects)
+- Doing give-aways, and some more suprices you will see from us later on :)
+
+Q: What if this gets leaked? A: Ill take down the leak, Ill remove the license of the leaker and he will not get any more updates, I will not give up Anti.pro even if it gets leaked 9999999999999999 times.
+
