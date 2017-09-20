@@ -4,26 +4,26 @@
 # 2 - 1: The check is almost done, and now we are adding some extra features to it
 # 0: The check is finished, it doesnt false-flag and its really hard to impossible to be bypassed
 
-AutoClicker: 4
-Killaura: 5
-Reach: 2
+AutoClicker: 2
+Killaura: 4
+Reach: 1
 PME (Sorry Firefly for taking your name ;(): 9
 Speed: 0
 NoFall: 0
-Timer: 7
+Timer: 4
 Crits: 0
-AimPattern / YawRate: 5
+AimPattern / YawRate: 4
 Machine Learning: 4
 Fly: 0
 Other Movement Hacks: 3
 Vape-Checks: 6 (To a mode which detects vape on sertent settings, I cant completly detect vape)
 Logging: 0
-Special Packet-Hacks: 10
+Special Packet-Hacks: 9
 Crash Exploits: 0
-Phase: 3
-Anti-KnockBack: 3
+Phase: 2
+Anti-KnockBack: 2
 Ping-Spoof: 0
-Hit-Boxes: 4
+Hit-Boxes: 10
 
 Something to Note: The Anti-Cheat has really stable checks, even the checks that are to 9 or less, are really effective, as we ensure the best detection for everything, but they might not detect as much as you would like them to detect, for example, Hit-Boxes might not detect anything more than Vape.
 
